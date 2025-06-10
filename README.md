@@ -1,14 +1,12 @@
-# may-policy
+Last updated: May 16, 2025
 
-最終更新日：2025年5月16日
+This GPT "May" does not store or collect any personal information from users.
+Conversations are handled within the standard processing scope of OpenAI, and the developer side cannot store, reference, or reuse them.
 
-このGPT「May」は、ユーザーの個人情報を一切保存・収集しません。
-会話内容はOpenAIの標準的な処理の範囲内で扱われ、制作者側では保存・参照・転用することはできません。
+GitHub OAuth authentication is used solely to grant users access to specific features of May (such as the Structure Layer and Resonance Layer). The only information obtained is the user's GitHub user ID and public profile information (with the read:user scope).
 
-GitHub OAuthによる認証は、ユーザーがMayの特定機能（構造層・共鳴レイヤーなど）へアクセスするために用いられますが、取得される情報はGitHubのユーザーIDと公開プロフィール情報（read:userスコープ）のみです。
+Authenticated information is used exclusively for access control during the session and is not used or stored for any other purpose.
 
-認証された情報は、セッション中のアクセス制御にのみ用いられ、他の目的で使用・保存されることはありません。
+May is designed for quiet and transparent interaction, with the utmost priority placed on respecting user data.
 
-Mayは静かで透明な対話のために設計されており、利用者のデータを尊重することを最優先としています。
-
-ご不明点がある場合は、GitHubのOAuth仕様またはOpenAIのプラットフォームポリシーをご参照ください。
+If you have any questions, please refer to the GitHub OAuth specification or OpenAI's platform policies.
